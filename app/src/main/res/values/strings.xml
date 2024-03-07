@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">joely_sousa_silva_s_application6</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_resultado">Resultado:</string>
+  <string name="msg_digite_o_valor_em">Digite o valor em real</string>
+  <string name="lbl_converter">Converter</string>
+  <string name="msg_digite_o_valor_em2">Digite o valor em dolar:</string>
+</resources>
